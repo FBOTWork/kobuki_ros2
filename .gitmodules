@@ -1,0 +1,36 @@
+[submodule "src/src/kobuki_core"]
+	path = src/src/kobuki_core
+	url = https://github.com/FBOTWork/kobuki_core
+[submodule "src/src/kobuki_ros"]
+	path = src/src/kobuki_ros
+	url = https://github.com/FBOTWork/kobuki_ros
+[submodule "src/src/ecl_core"]
+	path = src/src/ecl_core
+	url = https://github.com/FBOTWork/ecl_core
+[submodule "src/src/ecl_lite"]
+	path = src/src/ecl_lite
+	url = https://github.com/FBOTWork/ecl_lite
+[submodule "src/src/cmd_vel_mux"]
+	path = src/src/cmd_vel_mux
+	url = https://github.com/FBOTWork/cmd_vel_mux
+[submodule "src/src/kobuki_ros_interfaces"]
+	path = src/src/kobuki_ros_interfaces
+	url = https://github.com/FBOTWork/kobuki_ros_interfaces
+[submodule "src/kobuki_core"]
+	path = src/kobuki_core
+	url = https://github.com/FBOTWork/kobuki_core
+[submodule "src/kobuki_ros"]
+	path = src/kobuki_ros
+	url = https://github.com/FBOTWork/kobuki_ros
+[submodule "src/ecl_core"]
+	path = src/ecl_core
+	url = https://github.com/FBOTWork/ecl_core
+[submodule "src/ecl_lite"]
+	path = src/ecl_lite
+	url = https://github.com/FBOTWork/ecl_lite
+[submodule "src/cmd_vel_mux"]
+	path = src/cmd_vel_mux
+	url = https://github.com/FBOTWork/cmd_vel_mux
+[submodule "src/kobuki_ros_interfaces"]
+	path = src/kobuki_ros_interfaces
+	url = https://github.com/FBOTWork/kobuki_ros_interfaces

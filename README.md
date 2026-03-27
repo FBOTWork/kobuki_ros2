@@ -115,4 +115,4 @@ ros2 topic echo /commands/velocity
 
 ## ✅ Done!
 
-Now you can fully control your Kobuki robot using ROS 2 Humble using Zsh 🚀
+Now you can fully control your Kobuki robot using ROS 2 Humble using Bash 🚀

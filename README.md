@@ -4,7 +4,7 @@ This repository provides a guide and implementation for using **Kobuki packages 
 
 ## 📁 Repository
 
-🔗 GitHub: https://github.com/KauaOliveira11/KOBUKY-ROS2-HUMBLE.git
+🔗 GitHub: https://github.com/FBOTWork/kobuki_ros2.git
 
 ---
 
@@ -23,11 +23,12 @@ Make sure you have:
 
 ## 📥 Clone the Repository
 
-```bash id="4q9k8p"
-cd ~/ros2_ws/src
-git clone --recursive https://github.com/KauaOliveira11/KOBUKY-ROS2-HUMBLE.git
-```
+⚠️ This repository uses **Git submodules**. You must clone it properly:
 
+```bash
+cd ~/ros2_ws/src
+git clone --recurse-submodules https://github.com/FBOTWork/kobuki_ros2.git
+```
 ---
 
 ## 🔧 Install Dependencies
